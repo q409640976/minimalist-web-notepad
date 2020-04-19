@@ -1,4 +1,4 @@
-Minimalist Web Notepad
+网页记事本，文本快传
 ======================
 
 This is an open source clone of notepad.cc, which is now defunct.
